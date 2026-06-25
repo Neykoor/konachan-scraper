@@ -1,0 +1,15 @@
+{
+  "name": "konachan-scraper",
+  "version": "1.0.0",
+  "description": "Fetch random anime image URLs from konachan.com/konachan.net by tag",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": ["konachan", "anime", "image", "scraper"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
